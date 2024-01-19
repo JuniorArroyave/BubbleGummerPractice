@@ -6,7 +6,7 @@ export const BgShoes = [
     precio: 29.99,
   },
   {
-    imagen: 'https://ae01.alicdn.com/kf/Hb364cd411ee64d42bb9fc44f9d928adeq.jpg_640x640Q90.jpg_.webp',
+    imagen: 'https://ae01.alicdn.com/kf/Hb364cd411ee64d42bb9fc44f9d928adeq.jpg_640x640Q90.jpg',
     tallas: ['22', '23', '24', '25', '26'],
     descripcion: 'Sandalia rosa con diseño floral, ideal para niñas, estilo veraniego.',
     precio: 34.99,
@@ -24,7 +24,7 @@ export const BgShoes = [
     precio: 31.99,
   },
   {
-    imagen: '',
+    imagen: 'https://calzamundo.com.co/wp-content/uploads/2023/08/Escolar-507-GJ599090-A.png',
     tallas: ['23', '24', '25', '26', '27'],
     descripcion: 'Zapatos escolares para niños, color negro, estilo clásico.',
     precio: 28.99,
