@@ -1,6 +1,6 @@
 export const BgShoes = [
   {
-    imagen: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2F-%2Fes%2FZapatillas-deporte-ni%25C3%25B1os-azules-peque%25C3%25B1o%2Fdp%2FB0821Q3P2S&psig=AOvVaw36Oow6adjVJIIr08m0Qp7u&ust=1705770116015000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiMg4H36YMDFQAAAAAdAAAAABAJ',
+    imagen: 'https://canariaskidshoes.com/wp-content/uploads/2019/03/274548-deportivos-de-nino-azul-pablosky-de-piel.jpg',
     tallas: ['20', '21', '22', '23', '24'],
     descripcion: 'Zapatilla deportiva para niños, color azul con detalles en verde, estilo casual.',
     precio: 29.99,
