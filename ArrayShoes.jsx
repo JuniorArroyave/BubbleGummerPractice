@@ -6,7 +6,7 @@ export const BgShoes = [
     precio: 29.99,
   },
   {
-    imagen: 'https://ae01.alicdn.com/kf/Hb364cd411ee64d42bb9fc44f9d928adeq.jpg_640x640Q90.jpg',
+    imagen: 'https://m.media-amazon.com/images/I/713q45+8v0L._AC_UF1000,1000_QL80_.jpg',
     tallas: ['22', '23', '24', '25', '26'],
     descripcion: 'Sandalia rosa con diseño floral, ideal para niñas, estilo veraniego.',
     precio: 34.99,
